@@ -2,7 +2,7 @@
 %   plotGUI for vTracker - VICIS Motion Tracker
 %
 %
-%   Peter R. Cavanagh 03.16.17v2
+%   Peter R. Cavanagh 03.16.17
 %
 
 %   #1  varargout
